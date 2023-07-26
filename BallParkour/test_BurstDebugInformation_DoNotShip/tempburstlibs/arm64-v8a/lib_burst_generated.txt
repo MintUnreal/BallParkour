@@ -1,4 +1,4 @@
-Library: E:\Unity\Projects\BallParkour\Temp\StagingArea\tempburstlibs\arm64-v8a\lib_burst_generated
+Library: C:\Projects\BallParkour\BallParkour\Temp\StagingArea\tempburstlibs\arm64-v8a\lib_burst_generated
 --platform=Android
 --backend=burst-llvm-14
 --target=ARMV8A_AARCH64
@@ -112,16 +112,16 @@ Library: E:\Unity\Projects\BallParkour\Temp\StagingArea\tempburstlibs\arm64-v8a\
 --compilation-defines=ENABLE_LEGACY_INPUT_MANAGER
 --compilation-defines=TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
 --compilation-defines=UNITY_POST_PROCESSING_STACK_V2
+--compilation-defines=ENABLE_VR_MODULE
+--compilation-defines=ENABLE_XR_MODULE
+--compilation-defines=ENABLE_INPUT_SYSTEM_PACKAGE
+--compilation-defines=CSHARP_7_OR_LATER
+--compilation-defines=CSHARP_7_3_OR_NEWER
 --compilation-defines=PACKAGE_PHYSICS
 --compilation-defines=PACKAGE_PHYSICS2D
 --compilation-defines=PACKAGE_TILEMAP
 --compilation-defines=PACKAGE_ANIMATION
 --compilation-defines=PACKAGE_UITOOLKIT
---compilation-defines=CSHARP_7_OR_LATER
---compilation-defines=CSHARP_7_3_OR_NEWER
---compilation-defines=ENABLE_VR_MODULE
---compilation-defines=ENABLE_XR_MODULE
---compilation-defines=ENABLE_INPUT_SYSTEM_PACKAGE
 --compilation-defines=UNITY_INPUT_SYSTEM_ENABLE_VR
 --compilation-defines=UNITY_INPUT_SYSTEM_ENABLE_XR
 --compilation-defines=UNITY_INPUT_SYSTEM_ENABLE_PHYSICS
@@ -150,8 +150,8 @@ Library: E:\Unity\Projects\BallParkour\Temp\StagingArea\tempburstlibs\arm64-v8a\
 --compilation-defines=USING_PARTICLE_SYSTEM
 --compilation-defines=TIMELINE_FRAMEACCURATE
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=E:\Unity\Projects\BallParkour\Temp\Burst
---output=E:\Unity\Projects\BallParkour\Temp\StagingArea\tempburstlibs\arm64-v8a\lib_burst_generated
+--temp-folder=C:\Projects\BallParkour\BallParkour\Temp\Burst
+--output=C:\Projects\BallParkour\BallParkour\Temp\StagingArea\tempburstlibs\arm64-v8a\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 --pdb-search-paths=Temp/ManagedSymbols/
 
